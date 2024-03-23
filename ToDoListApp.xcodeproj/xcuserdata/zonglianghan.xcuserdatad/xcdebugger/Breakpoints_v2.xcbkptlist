@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8E065BFB-5FA7-40E4-B818-AA7E2298F2EE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BE0DE12-2E8C-471A-B37E-E2B25F3CCE16"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToDoListApp/ToDoListAppApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "5BE0DE12-2E8C-471A-B37E-E2B25F3CCE16 - 6fe34046f06834e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDoListApp.ToDoListAppApp.body.getter : some"
+                  moduleName = "ToDoListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zonglianghan/Desktop/TodoApp/ToDoListApp/ToDoListApp/ToDoListAppApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "5BE0DE12-2E8C-471A-B37E-E2B25F3CCE16 - 6fe34046f06834e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDoListApp.ToDoListAppApp.body.getter : some"
+                  moduleName = "ToDoListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zonglianghan/Desktop/TodoApp/ToDoListApp/ToDoListApp/ToDoListAppApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
